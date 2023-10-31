@@ -17,3 +17,5 @@ Show us the fight we’d like to see
 Red and White just fight, fight, fight
 And Eagles will win the victory!
 
+EASTERN! Eastern Eagles GO FIGHT WIN!
+
