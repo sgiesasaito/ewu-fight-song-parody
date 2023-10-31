@@ -5,6 +5,7 @@
 ## Citations 
 * [OpenProps] (https://open-props.style/)
 * [Youtube] (https://www.youtube.com/watch?v=h1BIRNVdugw)
+* [FAVICONGENERATOR] (https://favicon.io/favicon-converter/)
 
 
 ## Lyrics
